@@ -102,7 +102,7 @@ addons:
     target: plex
     image: ghcr.io/hassio-addons/plex/{arch}
   spotify:
-    repository: hassio-addons/addon-spotify-connect
+    repository: basveeling/addon-spotify-connect
     target: spotify
     image: ghcr.io/hassio-addons/spotify/{arch}
   tailscale:
